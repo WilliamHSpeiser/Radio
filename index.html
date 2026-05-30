@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WillFM</title>
+  <meta name="description" content="WillFM — a curated internet radio player." />
+  <link rel="icon" href="icon.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Single shared audio element. The browser's <audio> replaces mpv. -->
+  <audio id="player" preload="none"></audio>
+
+  <header id="topbar">
+    <div class="brand">
+      <img src="icon.png" alt="" class="brand-icon" />
+      <span class="brand-name">WillFM</span>
+    </div>
+    <div class="topbar-actions">
+      <button id="discovery-toggle" class="toolbtn" title="Show your saved tracks">Discovery List</button>
+    </div>
+  </header>
+
+  <div id="layout">
+    <!-- Sidebar: genres -> subgenres -> stations -->
+    <nav id="sidebar" aria-label="Stations"></nav>
+
+    <!-- Now playing -->
+    <main id="nowplaying">
+      <h1 id="station-name">Pick a station from the sidebar</h1>
+      <p id="tagline"></p>
+
+      <div class="np-body">
+        <div id="art" class="art" aria-hidden="true"></div>
+        <div class="np-info">
+          <div id="np-title" class="np-title">&mdash;</div>
+          <div id="np-artist" class="np-artist"></div>
+          <div id="np-show" class="np-show"></div>
+          <div id="np-warning" class="np-warning" hidden></div>
+        </div>
+      </div>
+
+      <div id="controls">
+        <button id="play-btn" class="ctl primary" disabled>Play</button>
+        <button id="add-btn" class="ctl" title="Add current track to Discovery List" disabled>+</button>
+        <span class="spacer"></span>
+        <label class="vol-label">Vol</label>
+        <input id="vol" type="range" min="0" max="100" value="75" />
+        <span class="spacer"></span>
+        <button id="prev-btn" class="ctl" title="Previous station">&#9664;</button>
+        <button id="next-btn" class="ctl" title="Next station">&#9654;</button>
+        <button id="shuffle-btn" class="ctl" title="Random station">&#128256;</button>
+      </div>
+      <div id="status" class="status"></div>
+    </main>
+
+    <!-- Discovery List panel (collapsed by default) -->
+    <aside id="discovery" class="collapsed" aria-label="Discovery List">
+      <h2 class="disc-header">Discovery List</h2>
+      <div id="discovery-empty" class="disc-empty">
+        Tap the + button while listening to add tracks here.<br />
+        Click any saved title to search it on YouTube.
+      </div>
+      <ul id="discovery-list" class="disc-list"></ul>
+    </aside>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1291 @@
+{
+  "stations": [
+    {
+      "id": "wbgo",
+      "name": "WBGO 88.3",
+      "tagline": "Jazz 88 — Newark, NJ",
+      "genre": "Jazz",
+      "stream_url": "https://ais-sa8.cdnstream1.com/3629_128.mp3",
+      "stream_alt_url": "https://ais-sa8.cdnstream1.com/3629_64.aac",
+      "metadata": {
+        "type": "composer+icy",
+        "widget_id": "5834b54de1c8aada9f4d7a9e"
+      },
+      "homepage": "https://www.wbgo.org/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "wbgo_too",
+      "name": "WBGO TOO",
+      "tagline": "HD2 sub-channel — automated",
+      "genre": "Jazz",
+      "stream_url": "https://ais-sa8.cdnstream1.com/3630_128.mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wbgo.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wwoz",
+      "name": "WWOZ 90.7",
+      "tagline": "New Orleans jazz and heritage",
+      "genre": "Jazz",
+      "stream_url": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wwoz.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "jazz24",
+      "name": "Jazz24",
+      "tagline": "24/7 jazz from KNKX Seattle",
+      "genre": "Jazz",
+      "stream_url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.jazz24.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "knkx",
+      "name": "KNKX 88.5",
+      "tagline": "Jazz, Blues & NPR News — Tacoma/Seattle",
+      "genre": "Jazz",
+      "stream_url": "https://knkx-live-a.edge.audiocdn.com/6284_256k",
+      "stream_alt_url": "https://knkx-live-a.edge.audiocdn.com/6284_128k",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.knkx.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "kcsm",
+      "name": "KCSM 91.1",
+      "tagline": "Bay Area jazz — straight-ahead, 24/7",
+      "genre": "Jazz",
+      "stream_url": "https://ice5.securenetsystems.net/KCSM",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://kcsm.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wkcr",
+      "name": "WKCR 89.9",
+      "tagline": "Columbia University — jazz, classical, avant-garde",
+      "genre": "Jazz",
+      "stream_url": "https://wkcr.streamguys1.com/live",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wkcr.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "kexp",
+      "name": "KEXP 90.3",
+      "tagline": "Where the Music Matters — Seattle",
+      "genre": "Eclectic",
+      "stream_url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+      "metadata": {
+        "type": "kexp_api"
+      },
+      "homepage": "https://www.kexp.org/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "dublab",
+      "name": "Dublab",
+      "tagline": "Future roots radio — Los Angeles",
+      "genre": "Eclectic",
+      "stream_url": "https://dublab.out.airtime.pro/dublab_a",
+      "metadata": {
+        "type": "airtime",
+        "base_url": "https://dublab.airtime.pro"
+      },
+      "homepage": "https://www.dublab.com/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "kcrw_e24",
+      "name": "KCRW Eclectic 24",
+      "tagline": "KCRW's 24/7 eclectic music stream",
+      "genre": "Eclectic",
+      "stream_url": "https://streams.kcrw.com/e24_mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.kcrw.com/music/shows/eclectic24",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "the_current",
+      "name": "The Current 89.3",
+      "tagline": "MPR's indie discovery station — Minneapolis",
+      "genre": "Eclectic",
+      "subgenre": "Indie",
+      "stream_url": "https://current.stream.publicradio.org/kcmp.mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.thecurrent.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wfmu",
+      "name": "WFMU 91.1",
+      "tagline": "Legendary freeform indie — Jersey City",
+      "genre": "Eclectic",
+      "subgenre": "Indie",
+      "stream_url": "https://stream0.wfmu.org/freeform-128k",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wfmu.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "kutx",
+      "name": "KUTX 98.9",
+      "tagline": "Austin's eclectic indie public radio",
+      "genre": "Eclectic",
+      "subgenre": "Indie",
+      "stream_url": "https://kut2.streamguys1.com/kutx-web",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.kutx.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wers",
+      "name": "WERS 88.9",
+      "tagline": "Emerson College — indie eclectic, Boston",
+      "genre": "Eclectic",
+      "subgenre": "Indie",
+      "stream_url": "https://wers.streamguys1.com/live",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wers.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "kcrw_main",
+      "name": "KCRW 89.9",
+      "tagline": "Santa Monica — eclectic music + NPR news",
+      "genre": "Eclectic",
+      "stream_url": "https://streams.kcrw.com/kcrw_192k_mp3_on_air",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.kcrw.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "folk_alley",
+      "name": "Folk Alley",
+      "tagline": "24/7 folk and singer-songwriter — FreshGrass Foundation",
+      "genre": "Folk",
+      "subgenre": "Folk Alley",
+      "stream_url": "https://freshgrass.streamguys1.com/folkalley-128mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://folkalley.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "folk_alley_classic",
+      "name": "Folk Alley: Classic Folk",
+      "tagline": "Folk from the 1950s–70s revival era",
+      "genre": "Folk",
+      "subgenre": "Folk Alley",
+      "stream_url": "https://freshgrass.streamguys1.com/ss1-128mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://folkalley.com/stream/classic-folk/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "folk_alley_fresh_cuts",
+      "name": "Folk Alley: Fresh Cuts",
+      "tagline": "New folk and Americana releases",
+      "genre": "Folk",
+      "subgenre": "Folk Alley",
+      "stream_url": "https://freshgrass.streamguys1.com/freshcuts-128mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://folkalley.com/stream/fresh-cuts/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "folk_alley_irish",
+      "name": "Folk Alley: Irish",
+      "tagline": "Traditional and contemporary Irish folk",
+      "genre": "Folk",
+      "subgenre": "Folk Alley",
+      "stream_url": "https://freshgrass.streamguys1.com/irish-128mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://folkalley.com/stream/irish-stream/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wumb_919",
+      "name": "WUMB 91.9",
+      "tagline": "Boston — folk and acoustic music, UMass Boston",
+      "genre": "Folk",
+      "stream_url": "https://wumb.streamguys1.com/wumb919",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wumb.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wmot_roots",
+      "name": "WMOT 89.5 Roots Radio",
+      "tagline": "Nashville — Americana, folk and roots",
+      "genre": "Folk",
+      "subgenre": "Americana",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wmot.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wncw",
+      "name": "WNCW 88.7",
+      "tagline": "Spindale, NC — eclectic Americana, folk, world",
+      "genre": "Folk",
+      "subgenre": "Americana",
+      "stream_url": "https://wncw-live-a.edge.audiocdn.com/6286_56k.aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wncw.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wfuv_music",
+      "name": "WFUV Music",
+      "tagline": "NYC — Adult Album Alternative, music-only feed",
+      "genre": "Folk",
+      "subgenre": "AAA / Folk-Rock",
+      "stream_url": "https://music.wfuv.org/music-hi",
+      "stream_alt_url": "https://music.wfuv.org/music-aacplus",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wfuv.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "rp_world_etc",
+      "name": "Radio Paradise: World/Etc",
+      "tagline": "World, folk and acoustic mix",
+      "genre": "Folk",
+      "subgenre": "World / Folk",
+      "stream_url": "https://stream.radioparadise.com/world-etc-192",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://radioparadise.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "rp_mellow",
+      "name": "Radio Paradise: Mellow",
+      "tagline": "Acoustic, folk-leaning mellow mix",
+      "genre": "Folk",
+      "subgenre": "Acoustic / Folk",
+      "stream_url": "https://stream.radioparadise.com/mellow-192",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://radioparadise.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wqxr",
+      "name": "WQXR 105.9",
+      "tagline": "New York's classical music station",
+      "genre": "Classical",
+      "stream_url": "https://stream.wqxr.org/wqxr",
+      "stream_alt_url": "https://stream.wqxr.org/wqxr.aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wqxr.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wcrb",
+      "name": "WCRB 99.5",
+      "tagline": "Classical New England — WGBH Boston",
+      "genre": "Classical",
+      "stream_url": "https://wgbh-live.streamguys1.com/classical-hi",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wgbh.org/classical/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wcrb_bach",
+      "name": "WCRB Bach Channel",
+      "tagline": "All Bach, all the time",
+      "genre": "Classical",
+      "stream_url": "https://audio.wgbh.org/Bach-8108",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wgbh.org/classical/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wfmt",
+      "name": "WFMT 98.7",
+      "tagline": "Chicago's classical and fine arts station",
+      "genre": "Classical",
+      "stream_url": "https://wfmt.streamguys1.com/main-mp3-128",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wfmt.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "rp_main",
+      "name": "Radio Paradise Main",
+      "tagline": "Eclectic listener-supported web radio",
+      "genre": "Rock",
+      "subgenre": "AAA",
+      "stream_url": "https://stream.radioparadise.com/aac-128",
+      "metadata": {
+        "type": "radioparadise",
+        "chan": 0
+      },
+      "homepage": "https://radioparadise.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "rp_rock",
+      "name": "Radio Paradise Rock",
+      "tagline": "Rock-heavy mix",
+      "genre": "Rock",
+      "subgenre": "AAA",
+      "stream_url": "https://stream.radioparadise.com/rock-128",
+      "metadata": {
+        "type": "radioparadise",
+        "chan": 2
+      },
+      "homepage": "https://radioparadise.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wxpn",
+      "name": "WXPN 88.5",
+      "tagline": "Vinyl-era and new music — U Penn",
+      "genre": "Rock",
+      "subgenre": "AAA",
+      "stream_url": "https://wxpnhi.xpn.org/xpnhi",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://xpn.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wxrt",
+      "name": "WXRT 93.1",
+      "tagline": "Chicago's original Adult Album Alternative",
+      "genre": "Rock",
+      "subgenre": "AAA",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXRTFMAAC.aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wxrt.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "q1043",
+      "name": "Q104.3 New York",
+      "tagline": "NYC's classic rock",
+      "genre": "Rock",
+      "subgenre": "Classic",
+      "stream_url": "https://stream.revma.ihrhls.com/zc1465",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://q1043.iheart.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "rockantenne",
+      "name": "Rock Antenne",
+      "tagline": "German classic + modern rock",
+      "genre": "Rock",
+      "subgenre": "Classic",
+      "stream_url": "https://mp3channels.webradio.rockantenne.de/rockantenne",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.rockantenne.de/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "grunge_90s",
+      "name": "90s90s Grunge",
+      "tagline": "Pure 90s grunge — Nirvana, Soundgarden, Pearl Jam",
+      "genre": "Rock",
+      "subgenre": "Grunge",
+      "stream_url": "https://streams.90s90s.de/grunge/mp3-192/",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.90s90s.de/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "soma_indie",
+      "name": "SomaFM Indie Pop Rocks",
+      "tagline": "New and classic indie pop and rock",
+      "genre": "Rock",
+      "subgenre": "Indie",
+      "stream_url": "https://ice1.somafm.com/indiepop-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "indiepop"
+      },
+      "homepage": "https://somafm.com/indiepop/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "indie1023",
+      "name": "Indie 102.3",
+      "tagline": "Colorado Public Radio — indie discovery",
+      "genre": "Rock",
+      "subgenre": "Indie",
+      "stream_url": "https://stream1.cprnetwork.org/cpr3_aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.indie1023.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wfuv",
+      "name": "WFUV 90.7",
+      "tagline": "Fordham public radio — AAA and indie",
+      "genre": "Rock",
+      "subgenre": "Indie",
+      "stream_url": "http://wfuv-music.streamguys.org/music-hi",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wfuv.org/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "rockantenne_metal",
+      "name": "Rock Antenne Heavy Metal",
+      "tagline": "All heavy metal, 24/7",
+      "genre": "Rock",
+      "subgenre": "Metal",
+      "stream_url": "https://mp3channels.webradio.rockantenne.de/heavy-metal",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.rockantenne.de/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "hardrock_radio",
+      "name": "Hard Rock Radio FM",
+      "tagline": "80s & 90s hard rock and metal",
+      "genre": "Rock",
+      "subgenre": "Metal",
+      "stream_url": "http://67.249.184.45:8015/",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "surfrock",
+      "name": "Surf Rock Radio",
+      "tagline": "Classic and modern surf rock",
+      "genre": "Rock",
+      "subgenre": "Surf",
+      "stream_url": "http://139.162.89.191:8020/radio.mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.surfrockradio.com/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "yachtrock_miami",
+      "name": "Yacht Rock Miami",
+      "tagline": "Smooth 70s/80s yacht-rock 24/7",
+      "genre": "Rock",
+      "subgenre": "Yacht",
+      "stream_url": "https://anchor.yachtrock.miami/listen/yacht_rock_miami/perigee",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://yachtrock.miami/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "hot97",
+      "name": "HOT 97",
+      "tagline": "NYC hip-hop and R&B (WQHT)",
+      "genre": "Hip-Hop / Rap",
+      "stream_url": "https://18503.live.streamtheworld.com/WQHTFMAAC_SC",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.hot97.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "power1051",
+      "name": "Power 105.1",
+      "tagline": "NYC hip-hop and R&B (iHeart)",
+      "genre": "Hip-Hop / Rap",
+      "stream_url": "https://stream.revma.ihrhls.com/zc1481",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://power1051.iheart.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "nts1",
+      "name": "NTS 1",
+      "tagline": "DJ shows from London (channel 1)",
+      "genre": "DJ / Mixes",
+      "stream_url": "https://stream-relay-geo.ntslive.net/stream",
+      "metadata": {
+        "type": "nts",
+        "channel_index": 0
+      },
+      "homepage": "https://www.nts.live/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "nts2",
+      "name": "NTS 2",
+      "tagline": "DJ shows from London (channel 2)",
+      "genre": "DJ / Mixes",
+      "stream_url": "https://stream-relay-geo.ntslive.net/stream2",
+      "metadata": {
+        "type": "nts",
+        "channel_index": 1
+      },
+      "homepage": "https://www.nts.live/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "lot_radio",
+      "name": "The Lot Radio",
+      "tagline": "Brooklyn DJ booth — independent dance, 24/7",
+      "genre": "DJ / Mixes",
+      "stream_url": "https://thelotradio-1.out.airtime.pro/thelotradio_a",
+      "metadata": {
+        "type": "airtime",
+        "base_url": "https://thelotradio.airtime.pro"
+      },
+      "homepage": "https://www.thelotradio.com/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "soma_groove",
+      "name": "SomaFM Groove Salad",
+      "tagline": "Downtempo and chill electronica",
+      "genre": "Electronic",
+      "stream_url": "https://ice1.somafm.com/groovesalad-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "groovesalad"
+      },
+      "homepage": "https://somafm.com/groovesalad/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "soma_beats",
+      "name": "SomaFM Beat Blender",
+      "tagline": "Deep house and downtempo beats",
+      "genre": "Electronic",
+      "stream_url": "https://ice1.somafm.com/beatblender-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "beatblender"
+      },
+      "homepage": "https://somafm.com/beatblender/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "soma_lush",
+      "name": "SomaFM Lush",
+      "tagline": "Sensuous vocals with downtempo",
+      "genre": "Electronic",
+      "stream_url": "https://ice1.somafm.com/lush-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "lush"
+      },
+      "homepage": "https://somafm.com/lush/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "rinse_fm",
+      "name": "Rinse FM",
+      "tagline": "UK garage, grime, house — London",
+      "genre": "Electronic",
+      "stream_url": "https://stream.rinse.fm/rinse_high",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://rinse.fm/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "soma_fluid",
+      "name": "SomaFM Fluid",
+      "tagline": "Instrumental hip-hop, future soul, liquid — lofi study beats",
+      "genre": "Electronic",
+      "subgenre": "Lo-Fi",
+      "stream_url": "https://ice1.somafm.com/fluid-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "fluid"
+      },
+      "homepage": "https://somafm.com/fluid/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "nightwave_plaza",
+      "name": "Nightwave Plaza",
+      "tagline": "24/7 vaporwave and lofi — chill focus textures",
+      "genre": "Electronic",
+      "subgenre": "Lo-Fi",
+      "stream_url": "https://radio.plaza.one/mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://plaza.one/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "soma_drone",
+      "name": "SomaFM Drone Zone",
+      "tagline": "Atmospheric, ambient soundscapes",
+      "genre": "Ambient",
+      "subgenre": "Drone",
+      "stream_url": "https://ice1.somafm.com/dronezone-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "dronezone"
+      },
+      "homepage": "https://somafm.com/dronezone/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "soma_deepspace",
+      "name": "SomaFM Deep Space One",
+      "tagline": "Deep ambient electronic and space",
+      "genre": "Ambient",
+      "subgenre": "Drone",
+      "stream_url": "https://ice1.somafm.com/deepspaceone-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "deepspaceone"
+      },
+      "homepage": "https://somafm.com/deepspaceone/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "soma_mission",
+      "name": "SomaFM Mission Control",
+      "tagline": "Ambient with NASA voice clips",
+      "genre": "Ambient",
+      "subgenre": "Drone",
+      "stream_url": "https://ice1.somafm.com/missioncontrol-128-mp3",
+      "metadata": {
+        "type": "somafm",
+        "channel_id": "missioncontrol"
+      },
+      "homepage": "https://somafm.com/missioncontrol/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "gds_fm",
+      "name": "GDS.FM",
+      "tagline": "Experimental electronic and avant-garde",
+      "genre": "Eclectic",
+      "stream_url": "https://gdsfm.out.airtime.pro:8000/gdsfm_a",
+      "metadata": {
+        "type": "airtime",
+        "base_url": "https://gdsfm.airtime.pro"
+      },
+      "homepage": "https://gds.fm/",
+      "mixed_content": false,
+      "meta_browser": true
+    },
+    {
+      "id": "yoga_chill",
+      "name": "Yoga Chill",
+      "tagline": "Meditation, yoga, zen",
+      "genre": "Ambient",
+      "subgenre": "Meditation",
+      "stream_url": "http://178.32.111.41:8027/stream-128kmp3-YogaChill",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.1.fm/station/yogachill",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "nature_relax",
+      "name": "Nature Relax",
+      "tagline": "Bird songs, water, wind, forest",
+      "genre": "Ambient",
+      "subgenre": "Nature",
+      "stream_url": "https://0nlineradio.radioho.st/lounge-nature-sounds?ref=rb26",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://onlineradio.host/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "ambient_sleep",
+      "name": "Ambient Sleeping Pill",
+      "tagline": "Slow ambient for sleep",
+      "genre": "Ambient",
+      "subgenre": "Sleep",
+      "stream_url": "https://radio.stereoscenic.com/asp-h",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://radio.stereoscenic.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "cryosleep",
+      "name": "Cryosleep",
+      "tagline": "Beatless ambient for deep sleep",
+      "genre": "Ambient",
+      "subgenre": "Sleep",
+      "stream_url": "http://streams.echoesofbluemars.org:8000/cryosleep",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://echoesofbluemars.org/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "worldwide_fm",
+      "name": "Worldwide FM",
+      "tagline": "Gilles Peterson's global music station",
+      "genre": "World Music",
+      "stream_url": "https://worldwide-fm.radiocult.fm/stream",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://worldwidefm.net/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "fip",
+      "name": "FIP",
+      "tagline": "Radio France's eclectic world stream",
+      "genre": "World Music",
+      "stream_url": "https://icecast.radiofrance.fr/fip-hifi.aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.radiofrance.fr/fip",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "rp_world",
+      "name": "Radio Paradise World/Etc",
+      "tagline": "World music mix",
+      "genre": "World Music",
+      "stream_url": "https://stream.radioparadise.com/world-etc-128",
+      "metadata": {
+        "type": "radioparadise",
+        "chan": 3
+      },
+      "homepage": "https://radioparadise.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "capital_fm_ke",
+      "name": "Capital FM Kenya",
+      "tagline": "Nairobi — African pop and afrobeats",
+      "genre": "World Music",
+      "subgenre": "African",
+      "stream_url": "https://capitalfm.co.ke/streamlive/",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.capitalfm.co.ke/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "africa_no1",
+      "name": "Africa No. 1",
+      "tagline": "Pan-African music and news — Paris/Libreville",
+      "genre": "World Music",
+      "subgenre": "African",
+      "stream_url": "http://stream.africa1.com:8000/africa1",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.africa1.com/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "wskq",
+      "name": "WSKQ La Mega 97.9",
+      "tagline": "Latin hits — New York",
+      "genre": "Latin",
+      "subgenre": "General",
+      "stream_url": "https://liveaudio.lamusica.com/NY_WSKQ_icy",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.lamega.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "caracol",
+      "name": "Caracol Radio",
+      "tagline": "Colombia — news, sports, and Latin music",
+      "genre": "Latin",
+      "subgenre": "General",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://caracol.com.co/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "klax",
+      "name": "KLAX La Raza 97.9",
+      "tagline": "Regional Mexican / banda — Los Angeles",
+      "genre": "Latin",
+      "subgenre": "Mexican",
+      "stream_url": "https://liveaudio.lamusica.com/LA_KLAX_icy",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.laraza979.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wley",
+      "name": "WLEY La Ley 107.9",
+      "tagline": "Regional Mexican — Chicago",
+      "genre": "Latin",
+      "subgenre": "Mexican",
+      "stream_url": "https://liveaudio.lamusica.com/CHI_WLEY_icy",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.laley1079.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "latinjazz",
+      "name": "Jazz Radio — Latin Jazz",
+      "tagline": "Latin / Afro-Cuban jazz, 24/7",
+      "genre": "Latin",
+      "subgenre": "Latin Jazz",
+      "stream_url": "https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.jazzradio.fr/radio/latin-jazz",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "onefm_bossa",
+      "name": "1.FM Bossanova",
+      "tagline": "Brazilian bossa nova, 24/7",
+      "genre": "Latin",
+      "subgenre": "Bossa Nova",
+      "stream_url": "https://strm112.1.fm/bossanova_mobile_mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.1.fm/station/bossanova",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "radio_bossa_nova",
+      "name": "Radio Bossa Nova",
+      "tagline": "Classic bossa from Rio and beyond",
+      "genre": "Latin",
+      "subgenre": "Bossa Nova",
+      "stream_url": "https://centova5.transmissaodigital.com:20104/stream",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://radiobossanova.com.br/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wsm_americana",
+      "name": "WSM Route 650",
+      "tagline": "Outlaw country and Americana",
+      "genre": "Country",
+      "subgenre": "Outlaw",
+      "stream_url": "https://stream01050.westreamradio.com/wsm2-mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wsmradio.com/route-650/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wsm_classic",
+      "name": "WSM 650 Nashville",
+      "tagline": "Grand Ole Opry, since 1925",
+      "genre": "Country",
+      "subgenre": "Classic",
+      "stream_url": "http://stream01048.westreamradio.com/wsm-am-mp3",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wsmradio.com/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "bull1079",
+      "name": "107.9 The Bull",
+      "tagline": "Pop country hits",
+      "genre": "Country",
+      "subgenre": "Pop",
+      "stream_url": "https://ais-sa1.streamon.fm/7283_48k.aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://1079thebull.iheart.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wamu_bluegrass",
+      "name": "WAMU Bluegrass Country",
+      "tagline": "24/7 bluegrass — Washington DC",
+      "genre": "Folk",
+      "subgenre": "Bluegrass",
+      "stream_url": "https://bluegrasscountry.streamguys1.com/bluegrass",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://bluegrasscountry.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wdvx",
+      "name": "WDVX 89.9",
+      "tagline": "Knoxville's Americana and bluegrass",
+      "genre": "Folk",
+      "subgenre": "Bluegrass",
+      "stream_url": "https://wdvx.streamguys1.com/live",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wdvx.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "kpig",
+      "name": "KPIG 107.5",
+      "tagline": "Freedom, CA — cult-favorite Americana",
+      "genre": "Folk",
+      "subgenre": "Americana",
+      "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KPIGFMAAC.aac",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://kpig.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "iriefm",
+      "name": "Irie FM",
+      "tagline": "Jamaica's reggae and dancehall station",
+      "genre": "Dancehall / Reggae",
+      "stream_url": "https://usa19.fastcast4u.com:7430/;",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://iriefm.net/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "reggae_chill",
+      "name": "Reggae Chill Cafe",
+      "tagline": "Mellow reggae and dub",
+      "genre": "Dancehall / Reggae",
+      "stream_url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://reggaechillcafe.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "uk_roots",
+      "name": "UK Roots FM",
+      "tagline": "Roots reggae and dancehall — UK",
+      "genre": "Dancehall / Reggae",
+      "stream_url": "http://138.201.198.218:8043/;",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.rootsfm.com/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "democracynow",
+      "name": "Democracy Now!",
+      "tagline": "Independent daily news with Amy Goodman",
+      "genre": "News",
+      "subgenre": "Progressive",
+      "stream_url": "http://mpeg.democracynow.org:8000/stream-64",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.democracynow.org/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "kpfa",
+      "name": "KPFA 94.1",
+      "tagline": "Pacifica Radio — Berkeley",
+      "genre": "News",
+      "subgenre": "Progressive",
+      "stream_url": "https://streams.kpfa.org:8443/kpfa",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://kpfa.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wbai",
+      "name": "WBAI 99.5",
+      "tagline": "Pacifica Radio — New York City",
+      "genre": "News",
+      "subgenre": "Progressive",
+      "stream_url": "http://stream.wbai.org:8000/wbai_128",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wbai.org/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "wnyc",
+      "name": "WNYC 93.9",
+      "tagline": "New York Public Radio — news and talk",
+      "genre": "News",
+      "subgenre": "Public",
+      "stream_url": "https://fm939.wnyc.org/wnycfm",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wnyc.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wbur",
+      "name": "WBUR 90.9",
+      "tagline": "Boston's NPR news station",
+      "genre": "News",
+      "subgenre": "Public",
+      "stream_url": "https://fm909.wbur.org/wbur_www",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wbur.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "bbc_world",
+      "name": "BBC World Service",
+      "tagline": "International news from London",
+      "genre": "News",
+      "subgenre": "International",
+      "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.bbc.co.uk/worldserviceradio",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wfcr",
+      "name": "WFCR 88.5 (NEPM)",
+      "tagline": "New England Public Media — Amherst NPR",
+      "genre": "Local (Pioneer Valley)",
+      "stream_url": "http://nepr.iad.streamguys1.com/WFCR",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.nepm.org/",
+      "mixed_content": true,
+      "meta_browser": false
+    },
+    {
+      "id": "wmua",
+      "name": "WMUA 91.1",
+      "tagline": "UMass Amherst student radio",
+      "genre": "Local (Pioneer Valley)",
+      "stream_url": "https://usa5.fastcast4u.com/proxy/qernhlca?mp=/1",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wmua.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wozq",
+      "name": "WOZQ 91.9",
+      "tagline": "Smith College radio — Northampton",
+      "genre": "Local (Pioneer Valley)",
+      "stream_url": "https://edge.mixlr.com/channel/ultyj",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://wozq.org/",
+      "mixed_content": false,
+      "meta_browser": false
+    },
+    {
+      "id": "wrsi",
+      "name": "WRSI 93.9 The River",
+      "tagline": "AAA — Northampton / Pioneer Valley",
+      "genre": "Local (Pioneer Valley)",
+      "stream_url": "https://live.amperwave.net/direct/saga-wrsifmmp3-ibc2",
+      "metadata": {
+        "type": "icy"
+      },
+      "homepage": "https://www.wrsi.com/",
+      "mixed_content": false,
+      "meta_browser": false
+    }
+  ]
+}
