@@ -1,0 +1,8 @@
+name = "willfm-metadata"
+main = "worker.js"
+compatibility_date = "2024-09-23"
+
+# Where the Worker reads the station list. Defaults to this repo's raw
+# stations.json on the main branch; change if your repo/branch differs.
+[vars]
+STATIONS_URL = "https://raw.githubusercontent.com/WilliamHSpeiser/Radio/main/stations.json"
