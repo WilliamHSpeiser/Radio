@@ -16,7 +16,7 @@ const DISCOVERY_KEY = "willfm.discovery";
 // base URL (no trailing slash) to light up ICY + Radio Paradise titles too.
 // The site queries `${META_PROXY}/nowplaying?id=<station id>` expecting JSON
 // {title, artist, art_url, show}. See README "Full metadata via a Worker".
-const META_PROXY = "";
+const META_PROXY = "https://willfm-metadata.williamhspeiser.workers.dev";
 
 // ---- DOM refs -------------------------------------------------------------
 const $ = (id) => document.getElementById(id);
